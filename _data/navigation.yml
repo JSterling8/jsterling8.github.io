@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Thoughts
+  url: /thoughts
+  excerpt:
+  image:
+
+- title: Where Am I
+  url: /where-am-i
+  excerpt:
+  image:

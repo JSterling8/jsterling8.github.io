@@ -1,0 +1,67 @@
+# Site wide configuration
+
+title: "I'm Not Dead"
+description: "The open-source, unmonetized blog of a nomadic crypto-enthusiast"
+logo: images/site-logo.jpeg
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url: https://imnotdead.co.uk
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /blog/:title
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: Jonathan Sterling
+  email: Jon@thanCodes.com
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio: In March 2017, I quit my job as a software engineer and began travelling around the world. This open-source blog exists to share my thoughts and let my friends and family know that I'm not dead.
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+google_analytics: UA-107258964-1
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
+  - "*.iml"
+  - .idea

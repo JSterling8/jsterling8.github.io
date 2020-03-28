@@ -1,0 +1,23 @@
+---
+.menu-screen {
+  @include position(fixed, 0 0 0 0);
+  visibility: hidden;
+  z-index: 4;
+  &.is-visible {
+    visibility: visible;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: {{ dir }}
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+---

@@ -1,0 +1,69 @@
+Bitcoin Core Narratives and Rebuttals
+
+
+NYA made an agreement on behalf of users without their consent.
+The NYA gave users an option that they can choose to either use or not use. That option includes more reliable block confirmation times and lower fees. Users are free to choose which chain they want to use.
+
+
+Moving to 8MB blocks decreases decentralisation.
+Decentralisation is not an all or nothing thing. There is a trade off between decentralisation and scalability. I heavily favour the side of decentralisation, but when we can increase our scalability by almost an entire order of magnitude, with negligible trade off on centralization, I think that's worthwhile. Every technical analysis I've seen says that's it's completely viable to have 8MB blocks with the state of the bitcoin code and infrastructure which runs it today. The only technical analysis I've seen against it is BitFury's, but that was written 2 years ago and said if block size went from 0.5MB to 1MB, we'd lose 20% of our nodes. We are now at 1MB blocksize, and the number of full nodes we have are actually up 50% since then. Their predictions are provably incorrect.
+
+http://gavintech.blogspot.co.id/2015/01/twenty-megabytes-testing-results.html
+http://www.comp.nus.edu.sg/~prateeks/papers/Bitcoin-scaling.pdf
+
+
+This is miners and businesses trying to strong arm a hard fork on short notice.
+The 2x side has tried negotiating with core for years. The NYA was signed and the Bitcoin Core codebase forked 6 months before the hard fork date. There has been more than enough time for both sides to prepare.
+
+
+Segwit2x is negligent if it doesn't include replay protection.
+
+
+
+
+
+
+
+*** Core is the true Bitcoin. Nobody else can use the name.
+*** Nobody owns the Bitcoin name. Just because a group of people control the codebase and refuse to upgrade it doesn't mean other people can't fork off, do it themselves, and call it whatever they want.
+
+
+
+
+
+Segwit2x Narratives and Rebuttals
+
+
+
+
+
+Misaligned incentives. Holding positions of power.
+
+
+
+
+
+
+
+
+Unorganised stuff:
+
+Consensus issues
+The Tyranny of Structurelessness - gets some quotes from here: http://www.jofreeman.com/joreen/tyranny.htm
+
+"Rob Caballero:
+the funny thing about a decentralized group
+ it looks the most decentralized from the point of view of whomever is in the middle of it"
+
+
+ "Controversy
+
+Because Bitcoin is a decentralized system, van der Laan believes that any code changes or BIP proposals must reach consensus among other Core developers before being implemented. Former Bitcoin developer Mike Hearn is one of the critics who have claimed that van der Laan’s approach is too conservative." - https://www.weusecoins.com/wladimir-van-der-laan/
+
+
+UTXO db growth size
+1MB = 5GB/month
+2MB = 10GB/month
+
+
+The key element is that Bitcoin lacks central points of oversight, planning, and control (and thus is less susceptible to catastrophic failure) - https://medium.com/@johnblocke/decentralization-fetishism-is-hindering-bitcoins-progress-11cfa5c7964d
