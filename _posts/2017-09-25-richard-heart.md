@@ -17,7 +17,7 @@ _Update (30 September 2017): I typed the below conversations out instead of usin
 {:toc}
 
 # TL;DR 
-I asked Richard Heart some questions and told him he raised a lot of red flags for me. He revealed his name as Richard James Schueler with <a href="http://www.panama-guide.com/article.php/20070926122502156" target="_blank">this article</a> via Twitter. I still had questions regarding the red flags. He sent a thinly veiled threat to me. I let people know. I wrote this article to cover everything in an organised fashion.  
+I asked Richard Heart some questions and told him he raised a lot of red flags for me. He revealed his name as Richard James Schueler with <a href="https://web.archive.org/web/20190617211502/http://www.panama-guide.com/article.php/20070926122502156" target="_blank">this article</a> via Twitter. I still had questions regarding the red flags. He sent a thinly veiled threat to me. I let people know. I wrote this article to cover everything in an organised fashion.  
 
 
 # How I Learned of Richard Heart
@@ -401,3 +401,4 @@ This article is a work in progress. There may be typos and things could probably
 * 2017-09-26: Fix broken hyperlink (forgot a closing angle bracket)
 * 2018-01-04: Fix incorrect year in update timestamps (2016->2017)
 * 2018-12-25: Fixed typos. Cut down on excessive wording.
+* 2024-07-24: Changed article link to wayback machine version as original site no longer exists
